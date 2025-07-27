@@ -63,3 +63,12 @@ The script was built for educational purposes only.
 You can change MySQL login credentials in the script as per your system.
 The code reflects a beginner-level understanding of GUI and DB, developed in Class 12.
 
+## 📜 License
+MIT License. See LICENSE for details.
+
+## 👤 Author
+```
+Aryan Chanana
+Class 12 CBSE Project Submission (Python + SQL)
+GitHub: @aryan-chanana
+```
