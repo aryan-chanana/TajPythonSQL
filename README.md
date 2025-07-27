@@ -33,7 +33,7 @@ TajPythonSQL/
 ├── cbse_project (taj hotel).py # Main Python script with full GUI logic
 ├── README.md # This documentation file
 ├── LICENSE # Open-source license
-└── (MySQL Database) # Assumed to be set up locally
+└── schema.sql # To be set up locally
 ```
 
 
